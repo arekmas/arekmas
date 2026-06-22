@@ -46,7 +46,7 @@
 | 💻 **IDEs** | Visual Studio Code, IntelliJ IDEA |
 | 🎨 **Graphics** | Affinity Suite, Adobe Photoshop |
 | 🧊 **3D & CAD** | Blender, Autodesk Fusion |
-| 🎬 **Video** | DaVinci Resolve |
+| 🎬 **Video** | After Effects, DaVinci Resolve |
 
 </div>
 

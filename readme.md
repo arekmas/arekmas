@@ -59,10 +59,10 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">https://x.com/arekmas1</a>&nbsp;
-  <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">https://www.youtube.com/@arekmas</a>&nbsp;
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">https://discord.com/users/506063417640222720</a>&nbsp;
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">https://www.instagram.com/arekmas_</a>
+  <a href="https://x.com/">https://x.com/arekmas1<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>&nbsp;
+  <a href="https://youtube.com/">https://www.youtube.com/@arekmas<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>&nbsp;
+  <a href="https://discord.com/">https://discord.com/users/506063417640222720<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;
+  <a href="https://instagram.com/">https://discord.com/users/506063417640222720<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
